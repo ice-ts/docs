@@ -3,8 +3,8 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
 	// Defines where your docs live. If hosting on https://site.com/ice/, this should be "/ice/"
 	base: "/docs/",
-	title: "Ice.ts Task Runner",
-	description: "TypeScript Task Runner for the Internet Computer",
+	title: "Ice.ts",
+	description: "TypeScript-native tooling for the Internet Computer",
 
 	// Clean URLs (remove .html extensions)
 	cleanUrls: true,
