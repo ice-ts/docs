@@ -1,0 +1,19 @@
+{
+  "name": "@ice.ts/docs",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview",
+    "gen:api": "typedoc --options typedoc.runner.json"
+  },
+  "devDependencies": {
+    "typedoc": "^0.28.14",
+    "typedoc-plugin-markdown": "^4.9.0",
+    "vitepress": "^1.4.1",
+    "typescript": "^5.6.3"
+  }
+}
+
