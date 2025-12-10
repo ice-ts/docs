@@ -50,7 +50,6 @@ export default defineConfig({
 							text: "Common Workflows",
 							link: "/recipes/common-workflows",
 						},
-						{ text: "Identities", link: "/recipes/identities" },
 						{
 							text: "Prebuilt Canisters",
 							link: "/recipes/prebuilt-canisters",
@@ -108,7 +107,6 @@ export default defineConfig({
 							text: "Common Workflows",
 							link: "/recipes/common-workflows",
 						},
-						{ text: "Identities", link: "/recipes/identities" },
 						{
 							text: "Prebuilt Canisters",
 							link: "/recipes/prebuilt-canisters",
@@ -166,7 +164,6 @@ export default defineConfig({
 							text: "Common Workflows",
 							link: "/recipes/common-workflows",
 						},
-						{ text: "Identities", link: "/recipes/identities" },
 						{
 							text: "Prebuilt Canisters",
 							link: "/recipes/prebuilt-canisters",
